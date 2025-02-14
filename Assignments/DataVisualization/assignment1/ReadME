@@ -1,0 +1,70 @@
+Student Performance Analysis
+
+📌 Overview
+
+This project analyzes student performance data using various Key Performance Indicators (KPIs). The dataset includes information such as GPA, study time, absences, extracurricular activities, and parental education. The goal is to identify patterns and insights that impact student success.
+
+📊 Key Performance Indicators (KPIs)
+
+Average GPA by Parental Education Level
+
+KPI Question: How does parental education affect student GPA?
+
+Visualization: pie chart
+
+Study Time vs. GPA
+
+KPI Question: Is there a correlation between study time and GPA?
+
+Visualization: Scatter Plot
+
+Absences Impact on GPA
+
+KPI Question: Do students with more absences have lower GPAs?
+
+Visualization: line plot
+
+Tutoring vs. GPA
+
+KPI Question: Does tutoring improve student GPA?
+
+Visualization: Pie Chart
+
+
+Grade Class Distribution
+
+KPI Question: What is the distribution of students across GPA classifications?
+
+Visualization: histogram
+
+🚀 Installation and Setup
+
+1️⃣ Install Required Packages
+
+Ensure you have Python installed, then run:
+
+pip install -r requirements.txt
+
+2️⃣ Running the Analysis
+
+Run the Python script to generate the visualizations:
+
+python assignment.ipynb
+
+3️⃣ Viewing the Results
+
+The charts will be displayed, showing insights from the dataset.
+
+📂 Files Included
+
+student_performance_data.csv - The dataset used for analysis
+
+assignment.ipynb - The script for data analysis and visualization
+
+requirements.txt - List of required Python packages
+
+README.md - Documentation for the project
+
+🎯 Conclusion
+
+This assignment provides insights into the factors that impact student performance. By analyzing these KPIs, educators and policymakers can make informed decisions to improve student outcomes.
